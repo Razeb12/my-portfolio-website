@@ -1,0 +1,23 @@
+[
+    {       "id": 1,
+        "title": "MEVN Stack Developer",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646982508/mevn_logo_bkwvzr.jpg",
+        "desc": " The acronym MEVN stands for MongoDB, Express. js, VueJS, Node. js. MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications."
+    },
+    {       "id": 2,
+        "title": "MERN Stack Developer",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646982508/mern_logo_eam0bs.png",
+        "desc": " The acronym MEVN stands for MongoDB, Express. js, VueJS, Node. js. MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications."
+    },
+    {       "id": 3,
+        "title": "Mobile App Developer",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646991025/flutter_wunjfg.png",
+        "desc": " The acronym MEVN stands for MongoDB, Express. js, VueJS, Node. js. MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications."
+    },
+    {       "id": 4,
+        "title": "Frontend Developer",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646990727/frontend_uox7wi.png",
+        "desc": " The acronym MEVN stands for MongoDB, Express. js, VueJS, Node. js. MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications."
+    }
+   
+]

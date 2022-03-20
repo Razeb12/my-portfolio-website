@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "InfoShare",
+        "desc": "Share profile of places you've been to, like and comment",
+        "projectLink": "https://cyberlife-2.netlify.app",
+        "codeLink": "https://github.com/Razeb12/wotech",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646993005/Screen_Shot_2022-03-11_at_11.02.54_io4xuv.png",
+        "tags": [
+            "React JS",
+            "All"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "InfoHub",
+        "desc": "Share profile of places you've been to, like and comment",
+        "projectLink": "https://cyberlife-2.netlify.app",
+        "codeLink": "https://github.com/Razeb12/wotech",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646982509/about01_yamjrv.png",
+        "tags": [
+            "Vue JS",
+            "Web App"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "InfoHub",
+        "desc": "Share profile of places you've been to, like and comment",
+        "projectLink": "https://cyberlife-2.netlify.app",
+        "codeLink": "https://github.com/Razeb12/wotech",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646993005/Screen_Shot_2022-03-11_at_11.02.54_io4xuv.png",
+        "tags": ["Mobile App", "All"]
+    },
+    {
+        "id": 4,
+        "title": "InfoHub",
+        "desc": "Share profile of places you've been to, like and comment",
+        "projectLink": "https://cyberlife-2.netlify.app",
+        "codeLink": "https://github.com/Razeb12/wotech",
+        "imgUrl": "https://res.cloudinary.com/razenprime/image/upload/v1646993005/Screen_Shot_2022-03-11_at_11.02.54_io4xuv.png",
+        "tags": "React JS"
+    }
+
+
+]

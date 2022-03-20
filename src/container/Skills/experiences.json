@@ -1,0 +1,30 @@
+[{
+        "id": 1,
+        "year": 2022,
+        "name": "Full Stack Web Developer",
+        "company": "Loctech NG",
+        "desc": "Team lead, monitor product development "
+
+
+    },
+    {
+        "id": 2,
+        "year": 2021,
+        "name": "Full Stack Web Developer",
+        "company": "Loctech NG",
+        "desc": "Team lead, monitor product development "
+
+    },
+    {
+        "id": 3,
+        "year": 2020,
+        "name": "Full Stack Web Developer",
+        "company": "Loctech NG",
+        "desc": "Team lead, monitor product development "
+
+    }
+
+
+
+
+]

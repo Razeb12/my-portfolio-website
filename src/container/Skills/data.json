@@ -1,0 +1,47 @@
+[
+    {
+       "name": "Flutter",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050526/flutter_lvnkh1.png",
+       "bgColor": "white"
+    },
+    {
+       "name": "Vue JS",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050527/vue_dsrbwn.png",
+       "bgColor": "white"
+    },
+    {
+       "name": "React JS",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050527/react_lathkn.png",
+       "bgColor": "white"
+    },
+    {
+       "name": "Node JS",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050527/node_g9igjm.png",
+       "bgColor": "white"
+    },
+    {
+       "name": "HTML5",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050526/html_mx77nv.png",
+       "bgColor": "pink"
+    },
+    {
+       "name": "JavaScript",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050526/javascript_zxz4h6.png",
+       "bgColor": "white"
+    },
+    {
+       "name": "GIT",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050526/git_byal8q.png",
+       "bgColor": "white"
+    },
+    {
+       "name": "CSS",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050526/css_rapbfb.png",
+       "bgColor": "white"
+    },
+    {
+       "name": "Sass",
+       "icon": "https://res.cloudinary.com/razenprime/image/upload/v1647050527/sass_rhkvkr.png",
+       "bgColor": "white"
+    }
+]
